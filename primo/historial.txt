@@ -1,0 +1,4 @@
+Número: 54, Es primo: No
+Número: 65, Es primo: No
+Número: 65, Es primo: No
+Número: 14, Es primo: No

@@ -1,0 +1,2 @@
+Valor: 100.00, IVA: 12.00, Valor sin IVA: 88.00
+Valor: 100.00, IVA: 12.00, Valor sin IVA: 88.00
